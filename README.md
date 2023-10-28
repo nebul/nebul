@@ -2,18 +2,12 @@
 
 ## 📖 About Me
 
-<div align="center">
-
 I'm a software engineer. 
 My main area of interest is embedded computing.
-
-</div>
 
 ---
 
 ## 🛠 Skills & Tools
-
-<div align="center">
 
 ![Embedded](https://img.shields.io/badge/-Embedded-black?style=for-the-badge&logo=embedded)
 ![OOP](https://img.shields.io/badge/-OOP-blue?style=for-the-badge&logo=oop)
@@ -41,26 +35,20 @@ My main area of interest is embedded computing.
 ![USB](https://img.shields.io/badge/-USB-black?style=for-the-badge&logo=usb)
 ![Ethernet](https://img.shields.io/badge/-Ethernet-black?style=for-the-badge&logo=ethernet)
 
-</div>
-
 ---
 
 ## 🎯 Currently
 
-<div align="center">
-
 - 🌱 I’m currently learning **Go and Lua**
-- 📈 Stats: 
+- 📈 Stats:
+  
     ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebul&show_icons=true&theme=tokyonight&count_private=true)
     ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nebul)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebul&layout=compact)
-</div>
-
+  
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 ### [MIPSimC](https://github.com/nebul/MIPSimC)
 - 📖 **Description**: MIPS simulator based on SystemC.
@@ -68,16 +56,10 @@ My main area of interest is embedded computing.
 - 🎯 **Objectifs**: practice SystemC.
 - 🌐 **Statut**: Ongoing
 
-</div>
-
 ---
 
 ## 📮 Contact
-
-<div align="center">
   
 :octocat: Open an issue or engage in repository discussions for any questions or collaborations.
-
-</div>
 
 ---
