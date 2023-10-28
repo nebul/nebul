@@ -3,7 +3,6 @@
 ## 📖 About Me
 
 I'm a software engineer. 
-My main area of interest is embedded computing.
 
 ---
 
