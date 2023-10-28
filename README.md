@@ -18,10 +18,11 @@ My main area of interest is embedded computing.
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![VHDL](https://img.shields.io/badge/-VHDL-blue?style=for-the-badge&logo=vhdl)
 
+![CMake](https://img.shields.io/badge/-CMake-black?style=for-the-badge&logo=cmake)
+
 ![SystemC](https://img.shields.io/badge/-SystemC-orange?style=for-the-badge&logo=systemc)
 ![Qt](https://img.shields.io/badge/-Qt-green?style=for-the-badge&logo=qt)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-green?style=for-the-badge&logo=opencv)
-![CMake](https://img.shields.io/badge/-CMake-black?style=for-the-badge&logo=cmake)
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows)
