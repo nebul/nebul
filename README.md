@@ -63,7 +63,7 @@ I'm a software engineer.
 ### [MIPSimC](https://github.com/nebul/MIPSimC)
 - 📖 **Description**: MIPS simulator based on SystemC.
 - 💻 **Technologies**: C++, SystemC, CMake
-- 🎯 **Objectifs**: practice SystemC.
+- 🎯 **Objectifs**: Practice C++ and SystemC.
 - 🌐 **Statut**: Ongoing
 
 ---
