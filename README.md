@@ -58,16 +58,6 @@ I'm a software engineer.
   
 ---
 
-## 🚀 Featured Projects
-
-### [MIPSimC](https://github.com/nebul/MIPSimC)
-- 📖 **Description**: MIPS simulator based on SystemC.
-- 💻 **Technologies**: C++, SystemC, CMake
-- 🎯 **Objectifs**: Practice C++ and SystemC.
-- 🌐 **Statut**: Ongoing
-
----
-
 ## 📮 Contact
   
 :octocat: Open an issue or engage in repository discussions for any questions or collaborations.
