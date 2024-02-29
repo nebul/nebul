@@ -46,15 +46,7 @@ I'm a software engineer.
 
 ## 🎯 Currently
 
-- 🌱 I’m currently learning **Go and Lua**
-- 📈 Stats:
-  
-    ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebul&show_icons=true&theme=tokyonight&count_private=true)
-  
-    ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nebul)
-  
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebul&layout=compact)
-  
+- 🌱 I’m currently learning **Rust, Go and Lua**
   
 ---
 
