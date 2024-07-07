@@ -59,6 +59,27 @@ I am a passionate software engineer specializing in embedded systems and softwar
 ## 🎯 Currently
 
 - 🌱 I’m currently learning ** Lua **
+
+---
+
+## 📊 GitHub Stats
+
+![Nebul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebul&show_icons=true&theme=radical)
+
+### 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nebul&layout=compact&theme=radical)
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+---
+
+## 🗣 Languages
+
+- **English:** Professional proficiency
+- **French:** Native proficiency
   
 ---
 
@@ -69,3 +90,5 @@ Feel free to reach out for any questions or collaborations:
 - :octocat: Open an issue or engage in repository discussions.
 
 ---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
