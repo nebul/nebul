@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Nebul
 
-> "Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in." - Isaac Asimov
-
 ## 📖 About Me
 
 I am a passionate software engineer specializing in embedded systems and software development. With a background in hardware-software integration, I am always eager to explore new technologies and improve my skills.
